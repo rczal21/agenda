@@ -1,4 +1,4 @@
-# agenda
+# agenda/contact list
 Contact list in C
 Agenda de contatos em C
 
